@@ -7,7 +7,7 @@
 [![GoDoc](https://godoc.org/github.com/ipfs/go-ds-badger?status.svg)](https://godoc.org/github.com/ipfs/go-ds-badger)
 [![Build Status](https://travis-ci.org/ipfs/go-ds-badger.svg?branch=master)](https://travis-ci.org/ipfs/go-ds-badger)
 
-> Datastore implementation using [badger](https://github.com/dgraph-io/badger) as backend.
+> Datastore implementation using [badger](https://github.com/dgraph-io/badger/v3) as backend.
 
 ## Lead Maintainer
 
